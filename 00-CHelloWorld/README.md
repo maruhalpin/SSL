@@ -1,1 +1,1 @@
-Compilador: MinGW
+Compilador: GCC C
